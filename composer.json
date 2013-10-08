@@ -1,0 +1,23 @@
+{
+  "name":         "jibone/Hipster-Crypto",
+  "description":  "Turn your text to a bunch of hipster words.",
+  "keywords":     ["hipster", "crypto", "joke"],
+  "homepage":     "http://lab.jshamsul.com/hipstercrypto",
+  "authors":      [
+    {
+      "name":     "J.Shamsul",
+      "email":    "j@jshamsul.com",
+      "homepage": "http://jshamsul.com",
+      "role":     "developer"
+    }
+  ],
+  "require": {
+    "slim/slim": "2.*",
+    "phpunit/phpunit": "3.7.*"
+  },
+  "autoload": {
+    "classmap": [
+      "lib"
+    ]
+  }
+}

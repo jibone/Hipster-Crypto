@@ -1,0 +1,57 @@
+/*
+ * Hipster Crypto
+ */
+
+// -- header container style
+.header-container {
+  text-align: center;
+  background-image: url(../img/ray-bans.jpg);
+  background-position: center center;
+  background-size: cover;
+  height: 250px;
+  h1 {
+    font-size: 5em;
+    a { 
+      color: #fff;
+      text-decoration: none;
+    }
+    text-shadow: 1px 1px #111;
+    margin-top: 100px;
+  }
+}
+
+// -- body container style
+.body-container {
+  margin-top: 20px;
+  .row, .row input {
+    margin-bottom: 20px;
+  }
+}
+
+// -- writeup container style
+.writeup-container {
+  background-color: #f5f5f5;
+  padding-bottom: 30px;
+}
+
+// -- footer container style
+.footer-container {
+  background-color: #111;
+  color: #fff;
+  .row {
+    padding-top: 10px;
+  }
+  a {
+    font-weight: 100;
+    letter-spacing: 1px;
+    color: #fff;
+  }
+}
+
+@media (min-width: 768px) {
+  .body-container {
+    .container {
+      width: 730px;
+    }
+  }
+}
