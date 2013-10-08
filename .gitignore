@@ -40,3 +40,4 @@ Thumbs.db
 # Ignore some config files #
 ############################
 vendor
+.sass-cache
