@@ -41,3 +41,5 @@ Thumbs.db
 ############################
 vendor
 .sass-cache
+composer.lock
+composer.phar
