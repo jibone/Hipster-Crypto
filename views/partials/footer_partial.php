@@ -7,7 +7,7 @@
             <p><a href="http://jshamsul.com">jShamsul.com</a></p>
           </div>
           <div class="col-xs-12 col-sm-4 col-md-5">
-            <p class="pull-right"><a href="/">crypto</a> / <a href="/about">about</a> / <a href="http://github.com">code</a></p>
+            <p class="pull-right"><a href="/">crypto</a> / <a href="/about">about</a> / <a href="https://github.com/jibone/Hipster-Crypto">code</a></p>
           </div>
         </div>
       </div>
